@@ -77,5 +77,5 @@ This system will have the potential to save time and money mostly in the HR depa
 
 ---
 ## Pseudocode
-[Pseudocode PDF](https://github.com/AmrElhady11/VTS/blob/main/PDF/Pseudocode-%20Manage%20Time%20Use%20Case.txt)
+[Pseudocode ](https://github.com/AmrElhady11/VTS/blob/main/PDF/Pseudocode-%20Manage%20Time%20Use%20Case.txt)
 
