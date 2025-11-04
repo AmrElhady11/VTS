@@ -8,6 +8,7 @@
 * [Problem Definatio](#Problem-Defination)
 * [Use Case Actors](#Use-Case-Actors)
 * [ Manage Time Use Case](#Manage-Time-Use-Case)
+* [ Pseudocode](#Pseudocode)
 
 
 ---
@@ -75,4 +76,5 @@ This system will have the potential to save time and money mostly in the HR depa
 
 
 ---
-
+## Pseudocode
+![Pseudocode File](https://github.com/AmrElhady11/VTS/blob/main/PDF/Pseudocode-%20Manage%20Time%20Use%20Case.txt)
