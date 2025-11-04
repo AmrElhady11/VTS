@@ -47,20 +47,21 @@ This system will have the potential to save time and money mostly in the HR depa
 ## Use Case Actors
 
 #### 1. Employee
-- **Manage time**
+ - **Manage time**
 
-  #### 2. Manager
-- **Approve or Refuse Requests**   
-- **Award time**
+#### 2. Manager
+ - **Approve or Refuse Requests**   
+ - **Award time**
 
 #### 3. HR Clerk
-**Edit Eployee Records** 
+ - **Edit Eployee Records**
+ - **Manage Locations**
+ - **Manage leave Categories**
+ - **Override Leave Records**
 
 #### 4. System Administrator
-- **Back-Up System Logs** 
-- **Manage Locations**
-- **Manage leave Categories**
-- **Override Leave Records**
+ - **Back-Up System Logs** 
+
 ---
 
 ##  Manage Time Use Case
