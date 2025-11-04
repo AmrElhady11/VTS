@@ -35,34 +35,33 @@ This system will have the potential to save time and money mostly in the HR depa
 9.**HR clerk  should be able  manageleave categories and their rules.**
 10.**HR clerk may override any rejection of leave time requests made by the rules in the system.**
 11.**the system administrator backs up the system’s logs.**
+   
 ---
 ##  Problem Defination
 
 **All vacation time had to be approved by an immediate manager and then checked by a clerk in the HR department before it was authorized.**
 **This process is slow, requires significant manual effort, and often results in delays, lost requests, and inconsistent tracking of vacation balances.***
 
+
 ---
 ## Use Case Actors
 
 #### 1. Employee
 - **Manage time**
----
+
   #### 2. Manager
 - **Approve or Refuse Requests**   
 - **Award time**
----
+
 #### 3. HR Clerk
-**Edit Eployee Records:** 
-**Manage Locations**
-**Manage leave Categories**
-**Override Leave Records**
----
+**Edit Eployee Records** 
+
 #### 4. System Administrator
-**Back-Up System Logs** 
-
-
+- **Back-Up System Logs** 
+- **Manage Locations**
+- **Manage leave Categories**
+- **Override Leave Records**
 ---
-
 
 ##  Manage Time Use Case
 
