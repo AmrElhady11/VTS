@@ -10,8 +10,7 @@
 * [ Manage Time Use Case](#Manage-Time-Use-Case)
 
 
-**---**
-
+------
 ##  vision
 
 A Vacation Tracking System (VTS) will provide individual employees with the 
