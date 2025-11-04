@@ -1,0 +1,26 @@
+Function createVacationRequest(title, description,category,start_date,end_date){
+    if isBalanceVacationValid(start_date,end_date)
+        var newRequest = new Request(title, description,category,start_date,end_date)
+        if(isValid(newRequest)){
+            saveToDatabase(newRequest)
+            sendMailToManager(manager)
+         else
+            return "error Massage, Bad request"
+        }
+
+    
+}
+ 
+Function showAllVacationRequests(Manager){
+    if(!getPendingRequestsFromDB.isEmpty())
+        return getPendingRequestsFromDB(Manager)
+    return "there is no requests yet"
+
+}
+
+Function doActionRequest(request_id,Manager_action){
+    currentRequest =getRequest(request_id)
+    currentRequest.state = Manager_action
+    saveToDatabase(currentRequest)
+    sendMailToEmployee(employee)
+}
