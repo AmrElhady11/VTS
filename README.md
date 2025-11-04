@@ -40,7 +40,7 @@ This system will have the potential to save time and money mostly in the HR depa
 ##  Problem Defination
 
 **All vacation time had to be approved by an immediate manager and then checked by a clerk in the HR department before it was authorized.**
-**This process is slow, requires significant manual effort, and often results in delays, lost requests, and inconsistent tracking of vacation balances.***
+**This process is slow, requires significant manual effort, and often results in delays, lost requests, and inconsistent tracking of vacation balances.**
 
 
 ---
