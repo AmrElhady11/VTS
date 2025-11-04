@@ -25,16 +25,16 @@ This system will have the potential to save time and money mostly in the HR depa
 ##  System Functional Requirements
     
 1. **employees should be able to request and view vacation time requests.**
-2.**The employee shoud be able to create a new request and select one of the categories of vacation time with a positive balance to use.**
-3. **The employee should be able to select the desired dates and hours per date (e.g., four hours might indicate a half-day vacation time request)**
+2. **The employee shoud be able to create a new request and select one of the categories of vacation time with a positive balance to use.**
+3. **The employee should be able to select the desired dates and hours per date (e.g., four hours might indicate a half-day vacation time request).**
 4. **The employee should be able to change the information or cancel the request.**
-5. **manager should be able to respond to a subordinate’s request for vacation time**
+5. **manager should be able to respond to a subordinate’s request for vacation time.**
 6. **manager can award a subordinate extra leave time (comp time).**
-7.**HR clerk  should be able to edit an employee’s information in the system and the maximum time that can be awarded by the manager.**
-8.**HR clerk  should be able to manage location records and their rules.**
-9.**HR clerk  should be able  manageleave categories and their rules.**
-10.**HR clerk may override any rejection of leave time requests made by the rules in the system.**
-11.**the system administrator backs up the system’s logs.**
+7. **HR clerk  should be able to edit an employee’s information in the system and the maximum time that can be awarded by the manager.**
+8. **HR clerk  should be able to manage location records and their rules.**
+9. **HR clerk  should be able  manageleave categories and their rules.**
+10. **HR clerk may override any rejection of leave time requests made by the rules in the system.**
+11. **the system administrator backs up the system’s logs.**
    
 ---
 ##  Problem Defination
